@@ -1,0 +1,16 @@
+{
+    "name" : "Fase 02 - Módulo POO",
+    "authors" : [
+        {
+            "name" : "Eduardo Silva",
+            "email" : "eduardo.ejs@hotmail.com"
+        }
+    ],
+    "mininum-stability" : "dev",
+    "autoload" : {
+        "psr-4" : {
+            "src\\classes\\" : "src/classes/",
+            "src\\interfaces\\" : "src/interfaces/"
+        }
+    }
+}
